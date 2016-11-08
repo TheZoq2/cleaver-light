@@ -1,7 +1,7 @@
 
     body {
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  color: #222;
+  color: #fff;
   font-size: 100%;
 }
 
@@ -9,7 +9,7 @@
   position: absolute;
   top: 0; bottom: 0;
   left: 0; right: 0;
-  background-color: #f7f7f7;
+  background-color: #1c1c1c;
 }
 
 .slide-content {
@@ -32,9 +32,9 @@
 
 .arrow {
   width: 0; height: 0;
-  border: 30px solid #333;
+  border: 3px solid #333;
   float: left;
-  margin-right: 30px;
+  margin-right: 3px;
 
   -webkit-touch-callout: none;
   -webkit-user-select: none;
