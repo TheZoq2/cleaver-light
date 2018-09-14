@@ -9,7 +9,7 @@
   position: absolute;
   top: 0; bottom: 0;
   left: 0; right: 0;
-  background-color: #1c1c1c;
+  background-color: #000;
 }
 
 .slide-content {
@@ -265,7 +265,7 @@ github.com style (c) Vasily Polovnyov <vast@whiteants.net>
 
 .hljs-comment,
 .hljs-quote {
-  color: #3D593F;
+  color: #88E08E;
   font-style: italic;
 }
 
@@ -281,18 +281,18 @@ github.com style (c) Vasily Polovnyov <vast@whiteants.net>
 .hljs-variable,
 .hljs-template-variable,
 .hljs-tag .hljs-attr {
-  color: #008080;
+  color: #e09d00;
 }
 
 .hljs-string,
 .hljs-doctag {
-  color: #d14;
+  color: #ff9494;
 }
 
 .hljs-title,
 .hljs-section,
 .hljs-selector-id {
-  color: #900;
+  /*color: #900;*/
   font-weight: bold;
 }
 
