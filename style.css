@@ -150,6 +150,11 @@ pre {
   display: none;
 }
 
+img {
+    margin: 0px auto;
+    display: block;
+}
+
 @media (max-width: 850px) {
 
   body {
@@ -347,6 +352,10 @@ github.com style (c) Vasily Polovnyov <vast@whiteants.net>
 
 .hljs-strong {
   font-weight: bold;
+}
+
+strong {
+    font-weight: bold;
 }
 
 
