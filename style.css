@@ -286,12 +286,12 @@ github.com style (c) Vasily Polovnyov <vast@whiteants.net>
 .hljs-variable,
 .hljs-template-variable,
 .hljs-tag .hljs-attr {
-  color: #e09d00;
+  color: #ffda91;
 }
 
 .hljs-string,
 .hljs-doctag {
-  color: #ff9494;
+  color: #ffbbbb;
 }
 
 .hljs-title,
@@ -325,7 +325,7 @@ github.com style (c) Vasily Polovnyov <vast@whiteants.net>
 
 .hljs-symbol,
 .hljs-bullet {
-  color: #990073;
+  color: #73ffdc;
 }
 
 .hljs-built_in,
