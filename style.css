@@ -359,4 +359,14 @@ strong {
 }
 
 
-  
+.fullscreen {
+    display: block;
+    position: fixed;
+    top: 0;
+    left: 0;
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    right: 0;
+    left: 0;
+}
