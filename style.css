@@ -370,3 +370,10 @@ strong {
     right: 0;
     left: 0;
 }
+
+pre code {
+    color: #fff;
+}
+code {
+    color:#ffc5c5;
+}
